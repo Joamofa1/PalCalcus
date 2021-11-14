@@ -1,8 +1,8 @@
-# calculator
+# PalCalcus
 
-Simple modern calculator.
+Simple modern calculator  😜
 
-- [PalCalcus ]
+- PalCalcus 
 
 ## Getting Started
 
@@ -28,4 +28,5 @@ flutter run
 ## Screenshots
 
 ### App
-![App]()
+![App](https://github.com/Joamofa1/PalCalcus/blob/main/Screenshots/2nd.png)
+![App](https://github.com/Joamofa1/PalCalcus/blob/main/Screenshots/firstscreen.png)

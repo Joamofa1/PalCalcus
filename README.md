@@ -2,7 +2,7 @@
 
 Simple modern calculator.
 
-- [Ui App  ](https://dribbble.com/shots/10903449-Daily-UI-004-Calculator/attachments/2547237?mode=media)
+- [PalCalcus ]
 
 ## Getting Started
 
@@ -28,4 +28,4 @@ flutter run
 ## Screenshots
 
 ### App
-![App](https://s4.uupload.ir/files/sshot-1_t4bq.png)
+![App]()
